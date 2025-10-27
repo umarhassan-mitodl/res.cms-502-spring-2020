@@ -23,7 +23,7 @@
   },
   "course_title": "Competency-Based Education: The Why, What, and How",
   "hide_download": true,
-  "course_description": "This course will help you develop an understanding of the characteristic elements of competency-based education (CBE) and how schools are implementing it. You will learn about CBE's potential for closing opportunity gaps, as well as challenges and concerns. You will get a closer look at what the implementation of CBE looks and feels like for students, teachers, administrators, families, and community members. You will consider the kinds of system-wide shifts necessary to support this innovation in education.\n\nBy looking at research and hearing from experts and voices in schools, you will leave the course equipped to start or continue conversations about whether CBE is a good fit in your context.\n\nThis course is part of the [Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library), which is free to use.\u00a0You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.\n",
+  "course_description": "This course will help you develop an understanding of the characteristic elements of competency-based education (CBE) and how schools are implementing it. You will learn about CBE's potential for closing opportunity gaps, as well as challenges and concerns. You will get a closer look at what the implementation of CBE looks and feels like for students, teachers, administrators, families, and community members. You will consider the kinds of system-wide shifts necessary to support this innovation in education.\n\nBy looking at research and hearing from experts and voices in schools, you will leave the course equipped to start or continue conversations about whether CBE is a good fit in your context.\n\nThis course is part of the {{% resource_link \"c1c45ca8-81a1-4b24-83d5-8328fe5d0911\" \"Open Learning Library\" %}}, which is free to use.\u00a0You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.\n",
   "department_numbers": [
     "CMS-W"
   ],
@@ -33,7 +33,6 @@
     "content": "4356d127-3dc8-7c73-94ef-6a5895b857a3",
     "website": "res-cms-502-competency-based-education-the-why-what-and-how-spring-2020"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Activity Assignments"
